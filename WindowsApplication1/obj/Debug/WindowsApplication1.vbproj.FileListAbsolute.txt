@@ -1,0 +1,12 @@
+c:\users\keith\documents\visual studio 2015\Projects\frmStock\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\keith\documents\visual studio 2015\Projects\frmStock\WindowsApplication1\bin\Debug\supply_db.mdb
+c:\users\keith\documents\visual studio 2015\Projects\frmStock\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\keith\documents\visual studio 2015\Projects\frmStock\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\keith\documents\visual studio 2015\Projects\frmStock\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\keith\documents\visual studio 2015\Projects\frmStock\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+c:\users\keith\documents\visual studio 2015\Projects\frmStock\WindowsApplication1\obj\Debug\WindowsApplication1.frmStock.resources
+c:\users\keith\documents\visual studio 2015\Projects\frmStock\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\keith\documents\visual studio 2015\Projects\frmStock\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\keith\documents\visual studio 2015\Projects\frmStock\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\keith\documents\visual studio 2015\Projects\frmStock\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\keith\documents\visual studio 2015\Projects\frmStock\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
